@@ -6,8 +6,8 @@ public class Ternario {
 /* 
  * Aqui temos uma expressão condicional, pois pode ser verdadeira ou falsa
  */	
-		String resultadoRecuperação = media >= 5.0 ? " em recuperação" : "reprovado";
-		String resultado = media  >= 7.0? "Aprovado":  resultadoRecuperação;
+		String resultadoRecupera��o = media >= 5.0 ? " em recuperação" : "reprovado";
+		String resultado = media  >= 7.0? "Aprovado":  resultadoRecupera��o;
 		System.out.println(resultado);
 		
 		

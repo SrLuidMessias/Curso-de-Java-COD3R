@@ -7,8 +7,8 @@ public class Unarios {
 // operador pós-fixado onde é avaliado o valor original!
 		int a = 1;
 		int b = 2;
-		a++; //equivale a, a = a + 1
-		a--; //equivale a, a = a  - 1
+		a++; //equivale , a = a + 1
+		a--; //equivale , a = a  - 1
 //isso vale para valores INT, BYTE, SHORT, etc.
 		System.out.println(a);
 /*temos a forma pré-fixada onde o valor já é incrementado,

@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class ConversãoDeTiposPrimitivos {
+public class Convers�oDeTiposPrimitivos {
 
 	public static void main(String[] args) {
 //cast define o tipo do valor usando parênteses

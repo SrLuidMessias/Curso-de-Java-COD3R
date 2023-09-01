@@ -2,7 +2,7 @@ package fundamentos;
 
 import javax.swing.JOptionPane;
 
-public class ProgramaFahrenheitToCelsius {
+public class DesafioFahrenheitToCelsius {
 	public static void main(String []x) {
 		String num1 = JOptionPane.showInputDialog("Digite um número em Fahrenheit ! : ");
 		Double fa1 = Double.parseDouble(num1);

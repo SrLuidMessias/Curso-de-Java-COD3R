@@ -1,6 +1,6 @@
 package fundamentos;
 import javax.swing.JOptionPane;
-public class AreaDoTriangulo {
+public class DesafioAreaDoTriangulo {
 	public static void main(String []x) {
 		String valorBase = JOptionPane.showInputDialog("Digite a base : ");
 		String valorAltura = JOptionPane.showInputDialog("Digite a altura : ");

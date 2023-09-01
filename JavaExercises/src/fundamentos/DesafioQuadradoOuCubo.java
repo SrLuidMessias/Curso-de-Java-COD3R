@@ -2,7 +2,7 @@ package fundamentos;
 
 import javax.swing.JOptionPane;
 
-public class ProgramaQuadradoOuCubo {
+public class DesafioQuadradoOuCubo {
 	public static void main(String[]x) {
 		String valor = JOptionPane.showInputDialog("Digite uma valor! :");
 		double valorconversion = Double.parseDouble(valor);

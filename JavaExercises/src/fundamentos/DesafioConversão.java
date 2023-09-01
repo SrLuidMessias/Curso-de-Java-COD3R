@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class DesafioConvers√£o {
+public class DesafioConvers„o {
 	
 	public static void main(String []args) {
 		System.out.println("vamos digitar os ultimos 3 salarios");

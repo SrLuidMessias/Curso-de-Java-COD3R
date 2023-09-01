@@ -6,7 +6,7 @@ class TipoStringEquals{
 		
 		String s1 = new String("2");
 		System.out.println("2"==s1);
-/* O equals compara os conteudos!!! em vez de usar ==, posso usar a funcionalidade 
+/* O equals compara os conteudos (Strings principalmente)!!! em vez de usar ==, posso usar a funcionalidade 
  * equals!
  */
 		System.out.println("2".equals(s1));

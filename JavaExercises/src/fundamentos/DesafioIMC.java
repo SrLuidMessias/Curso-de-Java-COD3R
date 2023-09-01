@@ -2,7 +2,7 @@ package fundamentos;
 
 import javax.swing.JOptionPane;
 
-public class ProgramaIMC {
+public class DesafioIMC {
 
 	public static void main(String[] x) {
 		String  num1 = JOptionPane.showInputDialog("Digite seu peso! :");

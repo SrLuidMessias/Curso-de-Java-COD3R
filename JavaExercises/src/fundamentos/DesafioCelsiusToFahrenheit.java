@@ -2,7 +2,7 @@ package fundamentos;
 
 import javax.swing.JOptionPane;
 
-public class ProgramaCelsiusToFahrenheit {
+public class DesafioCelsiusToFahrenheit {
 	public static void main(String[]x) {
 		String celsius = JOptionPane.showInputDialog("Digite um número em Celsius! :");
 		int num = Integer.parseInt(celsius);
