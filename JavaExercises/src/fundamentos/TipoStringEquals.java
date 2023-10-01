@@ -12,9 +12,9 @@ class TipoStringEquals{
 		System.out.println("2".equals(s1));
 		
 		Scanner entrada = new Scanner(System.in);
-//next ignora espa√ßos (nextLine n√£o!!!)!
+//next ignora espaÁos (nextLine n„o!!!)!
 		String s2 = entrada.nextLine();
-//trim ignora epa√ßos!!!
+//trim ignora espaÁos!!!
 		System.out.println("2"==s1.trim());
 		System.out.println("2".equals(s2.trim()));
 		
